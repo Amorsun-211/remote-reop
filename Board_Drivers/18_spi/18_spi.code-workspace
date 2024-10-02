@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fsl_iomuxc.h": "c",
+			"bsp_spi.h": "c"
+		}
+	}
+}

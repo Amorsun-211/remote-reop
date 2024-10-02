@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "fsl_iomuxc.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

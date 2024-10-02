@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fsl_iomuxc.h": "c",
+			"bsp_lcd.h": "c",
+			"bsp_gpio.h": "c"
+		}
+	}
+}
